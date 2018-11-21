@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CrowdinDemo</string>
+    <string name="request_translation"></string>
 </resources>
